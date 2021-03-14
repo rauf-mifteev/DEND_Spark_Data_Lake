@@ -9,8 +9,8 @@ This is Data Lake project for Udacity Data Engineer Nanodegree. In this project 
 
 ## Datasets
 
-* Song data: s3://udacity-dend/song_data
-* Log data: s3://udacity-dend/log_data
+* Song data: `s3://udacity-dend/song_data`
+* Log data: `s3://udacity-dend/log_data`
 
 ## Database schema
 
